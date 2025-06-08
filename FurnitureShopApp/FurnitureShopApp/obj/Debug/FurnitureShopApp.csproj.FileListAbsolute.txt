@@ -1,0 +1,10 @@
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.csproj.AssemblyReference.cache
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.Forms.MainForm.resources
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.Properties.Resources.resources
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.csproj.GenerateResource.cache
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.csproj.CoreCompileInputs.cache
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\bin\Debug\FurnitureShopApp.exe.config
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\bin\Debug\FurnitureShopApp.exe
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\bin\Debug\FurnitureShopApp.pdb
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.exe
+C:\Users\assas\OneDrive\Рабочий стол\Дэмка\FurnitureShopApp\FurnitureShopApp\obj\Debug\FurnitureShopApp.pdb

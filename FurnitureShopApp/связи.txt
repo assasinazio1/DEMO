@@ -1,0 +1,29 @@
+-- Products → ProductTypes
+ALTER TABLE Products
+ADD CONSTRAINT FK_Products_ProductTypes
+FOREIGN KEY (ProductTypeId) REFERENCES ProductTypes(ProductTypeId);
+
+-- ProductWorkshops → Products
+ALTER TABLE ProductWorkshops
+ADD CONSTRAINT FK_ProductWorkshops_Products
+FOREIGN KEY (ProductId) REFERENCES Products(ProductId);
+
+-- ProductWorkshops → Workshops
+ALTER TABLE ProductWorkshops
+ADD CONSTRAINT FK_ProductWorkshops_Workshops
+FOREIGN KEY (WorkshopId) REFERENCES Workshops(WorkshopId);
+
+-- ProductMaterials → Products
+ALTER TABLE ProductMaterials
+ADD CONSTRAINT FK_ProductMaterials_Products
+FOREIGN KEY (ProductId) REFERENCES Products(ProductId);
+
+-- ProductMaterials → Materials
+ALTER TABLE ProductMaterials
+ADD CONSTRAINT FK_ProductMaterials_Materials
+FOREIGN KEY (MaterialId) REFERENCES Materials(MaterialId);
+
+-- Materials → MaterialTypes
+ALTER TABLE Materials
+ADD CONSTRAINT FK_Materials_MaterialTypes
+FOREIGN KEY (MaterialTypeId) REFERENCES MaterialTypes(MaterialTypeId);
